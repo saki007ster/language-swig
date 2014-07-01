@@ -1,3 +1,3 @@
 # language-swig package
 
-A short description of your package.
+This is a package for the swig which is a simple, powerful, and extendable JavaScript Template Engine.
