@@ -6,6 +6,10 @@
 'patterns': [
   {
     'comment': 'SWIG files contain C or C++ code, so it\'s logical to derive from the C++ rules'
+    'include': 'source.cpp'
+  }
+  {
+    'comment': 'For compatibility with versions of Atom < 0.166'
     'include': 'source.c++'
   }
   {
