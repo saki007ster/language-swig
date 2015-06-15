@@ -24,13 +24,12 @@ This bundle adds support for tag-folding, Swig comments, and smart typing pairs.
 
 All tags support tab-completion
 
-{% highlight css %}
-block⇥
-
-{% block ${1:blockname} %}
-    $0
-{% endblock %}
-{% endhighlight %}
+>
+> block⇥
+> 
+> {% block ${1:blockname} %}
+>     $0
+> {% endblock %}
 
 ## Download For the Browser
 Swig also works in all major browsers. Just download the following file and follow the Documentation.
