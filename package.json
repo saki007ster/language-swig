@@ -1,6 +1,6 @@
 {
   "name": "language-swig",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "This is a package for the swig which is a simple, powerful, and extendable JavaScript Template Engine",
   "repository": "https://github.com/saki007ster/language-swig",
   "license": "MIT",
